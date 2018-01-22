@@ -1,0 +1,8 @@
+{
+  // Сomment
+  /*
+  Multiline comment
+   */
+  human:   Hjson
+  machine: JSON
+}
