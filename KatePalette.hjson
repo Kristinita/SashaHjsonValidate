@@ -5,3 +5,4 @@
    */
   human:   Hjson
   machine: JSON
+}
