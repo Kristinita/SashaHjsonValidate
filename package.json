@@ -1,0 +1,23 @@
+{
+  "name": "sashahjsonvalidate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kristinita/SashaHjsonValidate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kristinita/SashaHjsonValidate/issues"
+  },
+  "homepage": "https://github.com/Kristinita/SashaHjsonValidate#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^6.1.3",
+    "husky": "^0.14.3"
+  }
+}
